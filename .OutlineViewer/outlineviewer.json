@@ -1,0 +1,21 @@
+{
+  "Clients": {
+    "open": true
+  },
+  "Connections": {
+    "open": true
+  },
+  "NetworkTables Settings": {
+    "listenAddress": "127.0.0.1",
+    "mode": "Server"
+  },
+  "Server": {
+    "Publishers": {
+      "open": true
+    },
+    "Subscribers": {
+      "open": true
+    },
+    "open": true
+  }
+}

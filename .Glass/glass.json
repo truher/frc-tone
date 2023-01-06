@@ -1,0 +1,46 @@
+{
+  "NetworkTables": {
+    "createNonCanonical": true,
+    "properties": true,
+    "transitory": {
+      "tone": {
+        "open": true
+      }
+    }
+  },
+  "NetworkTables Info": {
+    "Clients": {
+      "open": true
+    },
+    "Connections": {
+      "open": true
+    },
+    "Server": {
+      "Publishers": {
+        "open": true
+      },
+      "Subscribers": {
+        "open": true
+      },
+      "open": true
+    },
+    "some label here": {
+      "Publishers": {
+        "open": true
+      },
+      "Subscribers": {
+        "open": true
+      },
+      "open": true
+    },
+    "visible": true
+  },
+  "NetworkTables Log": {
+    "visible": true
+  },
+  "NetworkTables Settings": {
+    "listenAddress": "127.0.0.1",
+    "mode": "Server",
+    "serverTeam": "localhost"
+  }
+}
